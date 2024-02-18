@@ -8,6 +8,10 @@ h1,
 h2 {
     text-align: center;
 }
+.input-section button:hover{
+background -color:red;
+    font-size:40px;
+}
 button#add-btn {
     width: 82px;
     height: 50px;
